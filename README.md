@@ -34,7 +34,7 @@ To run this application after downloading and unzipping the source code:
 
 11. If 'SyntaxError: Unexpected token 'B', "Billing ha"... is not valid JSON' - This means that the application is out of credits as OpenAI gives $18 to new users. Other people have probably already spent the allocated credits using this service. To get rid of this error,  a new api key must be generated and added to a newly created .env file inside 'server'.
 
-12. In the .env file it should read: OPENAI_API_KEY='x'- You can generate a new api by going to https://openai.com/api/ and click 'GET STARTRED'
+12. In the .env file it should read: OPENAI_API_KEY='x'- You can generate a new api by going to https://openai.com/api/ and click 'GET STARTED'
 
 13. Enter your details and then click on your profile in the top right and click 'View API Key'
 
