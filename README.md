@@ -41,3 +41,13 @@ To run this application after downloading and unzipping the source code:
 14. Click 'Create new secret key'
 
 15. In the .env file you created inside 'server', input the newly generated API key as OPENAI_API_KEY='x' and the application should work
+
+![image](https://user-images.githubusercontent.com/116273099/219021854-45d635b8-58d8-4252-bad0-894b716cfd91.png)
+
+![image](https://user-images.githubusercontent.com/116273099/219022115-02631d68-f29d-421c-a1c6-c953f6f472fa.png)
+
+![image](https://user-images.githubusercontent.com/116273099/219022295-c6a55ac9-e0ed-4529-9c8a-8264e7ef4b27.png)
+
+![image](https://user-images.githubusercontent.com/116273099/219022394-f5613b2c-a421-4c41-8b44-b74cf0e94e5e.png)
+
+
